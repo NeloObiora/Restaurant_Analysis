@@ -10,11 +10,18 @@ The data was analyzed and visualized using Python and libraries like Pandas, Mat
 
 Insights & Findings
 
-Our data reveals interesting customer preferences when it comes to food orders. While American cuisine currently ranks lowest in sales, whereas Asian food makes up the largest portion of orders at 28.7%. Mexican and Italian food follow closely behind at 24.4% and 24.3%, respectively.
+Our data reveals interesting customer preferences when it comes to food orders. While American cuisine currently ranks lowest in sales because it has the least food in quantity, whereas Asian food makes up the largest portion of orders at 28.7%. Mexican and Italian food follow closely behind at 24.4% and 24.3%, respectively.
+
 The highest average order value sits at around $19.95. 
+
 Looking at our purchase times, we see a significant rise in order during lunchtime(between 12:00 to 14:00) and dinner hours(between 16:00 to 20:00).
 Total Sales generated for the three months duration is $159,217.89
 
 Implications & Recommendations
 
-The data suggests an opportunity to explore the popular categories, perhaps introducing new dishes or highlighting existing ones within these categories could entice customers to explore beyond their usual choices. Also American foods are the least in quantity 
+The data suggests an opportunity to explore the popular categories perhaps introducing new dishes or highlighting existing ones within these categories could entice customers to explore beyond their usual choices. 
+
+The times with customer traffics(lunchtime and dinner hours) presents an opportunity to introduce upselling strategies during these times.  We could introduce combo meals or highlight pricier menu items during these peak hours to maximize revenue. 
+By strategically promoting these popular categories and implementing upselling techniques during busy periods, we can potentially boost sales and customer satisfaction.
+
+
